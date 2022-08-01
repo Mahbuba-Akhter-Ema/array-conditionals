@@ -1,0 +1,30 @@
+// console.log(5 > 6); 5 is greater than 6
+// console.log(5 < 6); 5 is smaller than 6
+// console.log(5 == 6);
+// console.log(5 == 5); to check equals
+// console.log(5 !== 6); Not equals to
+
+
+// less than or eqaul
+// console.log(5 <= 6);
+// console.log(6 <= 6);
+// console.log(16 <= 6);
+
+// greater than or eqauls to
+// console.log(5 >= 6);
+// console.log(5 >= 2);
+// console.log(2 >= 2);
+
+// var num1 = 56;
+// var num2 = 89;
+
+// console.log(num1 < num2);
+// console.log(num1 > num2);
+// console.log(num1 == num2);
+// console.log(num1 !== num2);
+// console.log(num1 >= num2);
+// console.log(num1 >= num2);
+
+// Multiple conditions
+// money1 > money2 && result1 < result2 && height1 > heght2
+// money1 < money2 || result1 > result2 || height1 < height2
